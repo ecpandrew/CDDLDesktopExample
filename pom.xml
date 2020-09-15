@@ -26,10 +26,11 @@
       <scope>test</scope>
     </dependency>
 
+
     <dependency>
       <groupId>com.github.ecpandrew</groupId>
       <artifactId>cddl-desktop-prod</artifactId>
-      <version>7e0c97ce39</version>
+      <version>5062ef0934</version>
     </dependency>
 
 
